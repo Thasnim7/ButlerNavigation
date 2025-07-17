@@ -1,4 +1,3 @@
-# ButlerNavigation
 # Goat Robotics ROS2 Task – Navigation Demo
 
 This package is created for the ROS Developer task at Goat Robotics Pvt Ltd.
@@ -34,9 +33,13 @@ ros2 topic pub --once /order_request std_msgs/String "data: 'table6'"
 ros2 topic pub --once /order_request std_msgs/String "data: 'table7'"
 
 video link:
-https://drive.google.com/file/d/1h73T5lp-wDDs-HTNHUmN228zo9yhjexV/view?usp=drive_link
-https://drive.google.com/file/d/1hFsvRa_5Nbl5r1_B2ORdQMZAXRhDPLNF/view?usp=drive_link
  
-  Made by **Thasnim Rihana S**
+ 📹 Demo Videos:
+
+- [Part 1 – Navigation demo](https://drive.google.com/file/d/1h73T5lp-wDDs-HTNHUmN228zo9yhjexV/view?usp=drive_link)
+- [Part 2 – Additional test cases](https://drive.google.com/file/d/1hFsvRa_5Nbl5r1_B2ORdQMZAXRhDPLNF/view?usp=drive_link)
+
+ 
+ Made by **Thasnim Rihana S**
 
  
